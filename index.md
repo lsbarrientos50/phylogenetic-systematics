@@ -1,11 +1,16 @@
 ---
 layout: default
-title: Curso Sistemática Filogenética
+title: Introducción
 nav_order: 1
 description: "Un curso práctico para estudiantes de ciencias biológicas para aprenderlos principios  y programas básicos de la Sistemática Filogenética."
 permalink: /
 ---
 
+# Sistemática Filogenética
+{: .fs-9 }
+
+**Un curso práctico** para estudiantes de ciencias biológicas para aprenderlos principios  y programas básicos de la Sistemática Filogenética.
+{: .fs-6 .fw-300 }
 
 # Resumen y propósitos del curso
 

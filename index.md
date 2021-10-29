@@ -1,9 +1,15 @@
-intro al curso
+---
+layout: default
+title: Curso Sistemática Filogenética
+nav_order: 1
+description: "Un curso práctico para estudiantes de ciencias biológicas para aprenderlos principios  y programas básicos de la Sistemática Filogenética."
+permalink: /
+---
 
 
 # Resumen y propósitos del curso
 
-Los análisis filogenéticos han llegado a convertirse en una metodología estándar para los estudios comparativos en cualquier campo de la biología. Este curso pretende enseñar los fundamentos de los análisis filogenéticos y aprender el uso de los diferentes programas de cómputo, con especial énfasis en los problemas inherentes a su aplicación a través de las herramientas brindadas por la sistemática, la biogeografía y la evolución.
+Los análisis filogenéticos se han convertido en una metodología estándar para los estudios comparativos en cualquier campo de la biología. Este curso pretende enseñar los fundamentos de los análisis filogenéticos y aprender el uso de los diferentes programas de cómputo, con especial énfasis en los problemas inherentes a su aplicación a través de las herramientas brindadas por la sistemática, la biogeografía y la evolución.
 
 # Conceptos fundamentales 
 Este curso incluye un primer encuentro con los siguientes temas entremezclados a lo largo del curso: La comparación entre distintos métodos de clasificación. Clasificaciones naturales. Homología, caracteres y estados de carácter. Los árboles filogenéticos, como leerlos y criterios de optimización. Criterios básicos como sinapomorfías, plesiomorfías, homoplasia, Grupos monofiléticos, parafiléticos y polifiléticos. Enraizamiento y búsqueda de árboles filogenéticos. Algoritmos exactos y heurísticos (Algoritmos de distancias. Máxima verosimilitud, inferencia bayesiana y aproximación a coalescencia). El tratamiento de datos en filogenias moleculares, morfología y comportamieno. Medidas de ajuste y pesado de caracteres y los problemas que pueden causar. Medidas de soporte. Tratamiento de partición de datos. Caracteres y concepto de homología. Alineamientos. Modelos de evolución molecular. Análisis filogenómico. Reloj molecular. Coevolución, biogeografía histórica. Métodos comparativos filogenético. Filogeografía, y análisis genético-poblacionales.

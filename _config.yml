@@ -1,5 +1,7 @@
-title: Curso Sistemática Filogenética
+title: Sistemática Filogenética
 description: Talleres del curso Sistemática Filogenética
 
 remote_theme: pmarsceill/just-the-docs
 
+colors:
+  primary: "green-200"

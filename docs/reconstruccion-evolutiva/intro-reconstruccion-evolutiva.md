@@ -6,8 +6,8 @@ has_children: true
 #permalink: /docs/reconstruccion-evolutiva
 ---
 
-reconstrucción de la historia evolutiva
-
+Reconstrucción de la Historia Evolutiva
+{: .fs-9 	.text-purple-000}
 
 La sistemática filogenética es el estudio de la historia de la vida reflejada en las relaciones evolutivas entre taxones. Un taxón es cualquier categoría taxonómica que va desde una especie (p. Ej., Arrendajo azul) hasta un grupo de orden superior (p. Ej., Aves, amniotas, vertebrados). El plural de taxón es taxa. La sistemática filogenética es una herramienta muy poderosa que permite a los biólogos de todas las áreas organizar y recuperar información sobre la biodiversidad y hacer predicciones basadas en la ascendencia común más reciente. Esta metodología (que veremos hoy) se basa en la cladística e intenta reconstruir la historia evolutiva de los taxones con base en evidencia observable y comprobable y en el principio de parsimonia que veremos más adelante.
 

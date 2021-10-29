@@ -7,10 +7,7 @@ permalink: /
 ---
 
 # Sistemática Filogenética
-{: .fs-9 }
-
-# Sistemática Filogenética
-{: .fs-9 .text-green-000}
+{: .fs-9 	.text-purple-000}
 
 **Un curso práctico** para estudiantes de ciencias biológicas para aprenderlos principios  y programas básicos de la Sistemática Filogenética.
 {: .fs-6 .fw-300 }

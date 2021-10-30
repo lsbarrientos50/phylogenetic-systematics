@@ -3,5 +3,5 @@ description: Talleres del curso Sistemática Filogenética
 
 remote_theme: pmarsceill/just-the-docs
 
-colors:
-  primary: "#11BB55"
+color_scheme: foo
+

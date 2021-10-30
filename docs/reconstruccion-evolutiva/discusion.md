@@ -2,7 +2,7 @@
 layout: default
 title: Discusión
 parent: Reconstrucción Evolutiva
-nav_order: 5
+nav_order: 6
 ---
 
 Preguntas para debatir

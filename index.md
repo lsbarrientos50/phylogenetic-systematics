@@ -12,6 +12,9 @@ permalink: /
 **Un curso práctico** para estudiantes de ciencias biológicas para aprenderlos principios  y programas básicos de la Sistemática Filogenética.
 {: .fs-6 .fw-300 }
 
+Curso en construcción
+{: .label .label-yellow }
+
 # Resumen y propósitos del curso
 
 Los análisis filogenéticos se han convertido en una metodología estándar para los estudios comparativos en cualquier campo de la biología. Este curso pretende enseñar los fundamentos de los análisis filogenéticos y aprender el uso de los diferentes programas de cómputo, con especial énfasis en los problemas inherentes a su aplicación a través de las herramientas brindadas por la sistemática, la biogeografía y la evolución.

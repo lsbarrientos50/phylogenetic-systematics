@@ -3,7 +3,7 @@ layout: default
 title: Reconstrucción Evolutiva
 nav_order: 2
 has_children: true
-#permalink: /docs/reconstruccion-evolutiva
+permalink: /reconstruccion-evolutiva
 ---
 
 Reconstrucción de la Historia Evolutiva

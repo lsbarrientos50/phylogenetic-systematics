@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Alineamientos múltiples 
+title: Alineamientos Múltiples 
 nav_order: 2
 has_children: true
 permalink: /alineamientos-multiples

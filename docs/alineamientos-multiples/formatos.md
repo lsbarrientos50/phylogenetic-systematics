@@ -9,7 +9,7 @@ Formatos de secuencias
 {: .fs-9 	.text-purple-000 .fw-300}
 
 Existen diferentes formatos para secuencias, generalmente en texto plano. Lo que significa que se pueden ver y editar con cualquier editor de texto, como Atom, Textwrangler, vi o pico. Algunos de estos formatos son más comunes que otros y muchos programas de bioinformática aceptan varios de los formatos más comunes (Leonard et al., 2007). Todos los formatos de secuencias tienen una característica (campo) en común: un identificador para cada secuencia. De forma que esta pueda ser reconocida de forma unívoca. 
-{: .fs-6 .fw-300 }
+{: .fw-300 }
 
 
 ## Fasta 

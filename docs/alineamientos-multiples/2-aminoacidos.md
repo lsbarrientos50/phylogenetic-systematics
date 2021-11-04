@@ -2,8 +2,8 @@
 layout: default
 title: Secuencias de aminoacidos
 parent: Alineamientos Múltiples
-permalink: /reconstruccion-evolutiva/estado-caracteres
-nav_order: 1
+permalink: /alineamientos-multiples/aminoacidos
+nav_order: 2
 ---
 
 Alineando las secuencias de aminoácidos de COI

@@ -2,7 +2,7 @@
 layout: default
 title: Edición y visualización
 parent: Alineamientos Múltiples
-permalink: /alineamientos-multiples/edicion-vusualizacion
+permalink: /alineamientos-multiples/edicion-visualizacion
 nav_order: 4
 ---
 

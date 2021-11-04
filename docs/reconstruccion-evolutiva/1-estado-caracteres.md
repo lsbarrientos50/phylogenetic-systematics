@@ -2,6 +2,7 @@
 layout: default
 title: Estado del caracter
 parent: Reconstrucción Evolutiva
+permalink: /reconstruccion-evolutiva/estado-caracteres
 nav_order: 1
 ---
 
@@ -14,7 +15,7 @@ En la primera parte de esta práctica de laboratorio, examinarán representantes
 Figura 1. Estado del caracter
 {: .fs-1 .mx-auto }
 
-ada carácter. Para la mayoría de los caracteres, solo necesitan determinar si ese carácter está presente (sí) o ausente (no). Para otros caracteres, deben deter
+Para la mayoría de los caracteres, solo necesitan determinar si ese carácter está presente (sí) o ausente (no). Para otros caracteres, deben deter
 
 Figura 2. Matriz de caracteres </sup>
 {: .fs-1 .mx-auto }

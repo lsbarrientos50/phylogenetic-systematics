@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Secuencias de aminoacidos
+title: Secuencias de proteinas
 parent: Alineamientos Múltiples
 permalink: /alineamientos-multiples/proteinas
 nav_order: 3

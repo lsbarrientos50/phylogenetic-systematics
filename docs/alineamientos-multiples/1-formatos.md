@@ -2,6 +2,7 @@
 layout: default
 title: Formatos
 parent: Alineamientos Múltiples
+permalink: /alineamientos-multiples/formatos
 nav_order: 1
 ---
 
